@@ -2,10 +2,10 @@ package dto;
 
 public class UserController {
 
-    private String name;
+    private String name1;
 
-    private int age;
+    private int age2;
 
-    private String addr;
+    private String addr3;
 
 }
