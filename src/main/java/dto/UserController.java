@@ -4,8 +4,10 @@ public class UserController {
 
     private String name;
 
-    private int age;
+    private int age1;
 
     private String addr;
+
+    private int date;
 
 }
