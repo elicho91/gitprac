@@ -8,6 +8,6 @@ public class UserController {
 
     private String addr;
 
-    private int date;
+    private int dateddddddddd;
 
 }
