@@ -6,6 +6,6 @@ public class UserController {
 
     private int age;
 
-    private String address;
+    private String address1;
 
 }
